@@ -1,0 +1,4 @@
+Timestamp,Node ID,Location,Cloud Cover (%),Est Output (kW),Status
+2026-08-31 06:05:41,DLA-01,Akwa,25,60.0,MODERATE
+2026-08-31 06:05:41,DLA-02,Bonanjo,25,150.0,MODERATE
+2026-08-31 06:05:41,DLA-03,Bapanda,25,300.0,MODERATE
