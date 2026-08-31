@@ -2,7 +2,7 @@ import os
 import requests
 
 def fetch_grid_generation_mix():
-    api_key = os.getenv("EIA_API_KEY", "ZVUjeW6nkiJjhjh2x6Ozj8ibdYbNHhjipamXgLfV")
+    api_key = os.getenv("EIA_API_KEY", "YOUR_EIA_KEY")
     # EIA v2 API Endpoint for Hourly Generation by Fuel Type
     endpoint = "https://api.eia.gov/v2/electricity/rto/fuel-type-data/data/"
     
